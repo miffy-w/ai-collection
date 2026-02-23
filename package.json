@@ -1,0 +1,21 @@
+{
+  "name": "ai-collection",
+  "version": "1.0.0",
+  "description": "使用 DeepSeek API 定时更新 README 文档",
+  "main": "update_readme.js",
+  "scripts": {
+    "start": "node update_readme.js",
+    "test": "node update_readme.js"
+  },
+  "keywords": [
+    "deepseek",
+    "readme",
+    "auto-update"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.0"
+  }
+}
