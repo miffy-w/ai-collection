@@ -1,6 +1,6 @@
 # AI Platforms and Tools Resources
 
-[中文版](./README.md)
+[中文](./README.md)
 
 ## Chat & Conversation
 
