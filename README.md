@@ -1,6 +1,6 @@
 # AI 平台与工具资源
 
-[English Version](./README_EN.md)
+[English](./README_EN.md)
 
 ## 对话与聊天
 
